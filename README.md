@@ -5,20 +5,18 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version -ruby "3.0.0"
 
-* System dependencies
+* System dependencies - rails "rails", "~> 7.0.2", ">= 7.0.2.2"
 
-* Configuration
+* Database creation -default sqlite
 
-* Database creation
+* Database initialization - Rails db:migrate
 
-* Database initialization
+* How to run the test suite -Rails s to start the server
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+
